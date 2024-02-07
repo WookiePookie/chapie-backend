@@ -1,5 +1,4 @@
 package com.wookiepookie.chapie.sdk
 
-class ChapieChatApi : ChapieApi {
-
+interface ChapieApi {
 }

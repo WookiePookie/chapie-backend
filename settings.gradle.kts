@@ -16,4 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "chapie-backend"
 
 include(":app")
- 
+include(":core")
